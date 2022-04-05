@@ -1,0 +1,2 @@
+- ternary operator do be looking sus
+- tests done in the browser - still easy. ༼ つ ◕_◕ ༽つ
