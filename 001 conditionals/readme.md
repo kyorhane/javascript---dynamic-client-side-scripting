@@ -1,2 +1,3 @@
 - ternary operator do be looking sus
 - tests done in the browser - still easy. ༼ つ ◕_◕ ༽つ
+- [switch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) is however a doozy
