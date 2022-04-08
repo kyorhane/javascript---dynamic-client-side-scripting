@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Functions: Task 2</title>
+    <style>
+        p {
+            color: purple;
+            margin: 0.5em 0;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        canvas {
+            border: 1px solid black;
+        }
+    </style>
+    <link rel="stylesheet" href="../styles.css" />
+</head>
+
+<body>
+
+    <section class="preview">
+
+    </section>
+
+    <canvas width="480" height="320">
+
+    </canvas>
+
+</body>
+<script>
+    const canvas = document.querySelector('canvas');
+    const ctx = canvas.getContext('2d');
+
+    const x = 50;
+    const y = 60;
+    const width = 100;
+    const height = 75;
+    const color = 'blue';
+
+    // Add your code here
+    let i = 0;
+    const btn = document.createElement('button');
+    btn.addEventListener('click', () => {
+        drawRectangle(x + rand(i), y + rand(i), width + rand(i), height + rand(i), color);
+        i++;
+        console.log(i);
+    });
+    btn.textContent = 'Click to draw an incrementally big rectangle';
+    document.body.appendChild(btn);
+
+    function drawRectangle(x, y, w, h, color) {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        ctx.fillStyle = color;
+        ctx.fillRect(x, y, w, h);
+    }
+
+    function rand(num) {
+        return Math.random() * 10 * num
+    }
+    // Don't edit the code below here!
+
+    const section = document.querySelector('section');
+</script>
+
+</html>
