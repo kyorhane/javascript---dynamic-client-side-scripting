@@ -1,0 +1,17 @@
+p {
+    color : purple;
+    margin: 0.5em 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+button {
+    display: block;
+    margin : 20px 0 20px 20px;
+}
+
+.button-bar {
+    padding: 20px 0;
+}
