@@ -5,6 +5,7 @@
 - Realize I can only clone, checkout, stage, commit & push.
 - # 恥ずかしいぃぃぃぃぃぃぃぃ
 - Need to come back to 007 to learn more about removing listeners
+- Use [AbortSignals](https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal) more
 - Need more exposure to 'event capture, target and bubbling'
 - Need to use more 'event delegation'
 - Learn how to work with 'data-' coded attributes (e.g. data-color in events-3)
