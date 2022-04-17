@@ -1,1 +1,2 @@
 - Learned 'this' and constructors in 001
+- Mfw I did an oopsie and merged with main 💀
