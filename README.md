@@ -1,2 +1,5 @@
 - Learned 'this' and constructors in 001
 - Mfw I did an oopsie and merged with main 💀
+- After tinkering w/ Git for a while, can effectively use pretty much most cmds now 😎
+- JSON is wack. It's all loops!
+- ### やれやれ
