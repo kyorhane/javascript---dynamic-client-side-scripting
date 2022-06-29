@@ -3,3 +3,5 @@
 - After tinkering w/ Git for a while, can effectively use pretty much most cmds now 😎
 - JSON is wack. It's all loops!
 - ### やれやれ
+- Been busy with visa and schools paperwork for the past 2 months
+- But your boy's back with a stronger understanding of js prototype chains
