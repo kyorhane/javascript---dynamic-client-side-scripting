@@ -1,2 +1,4 @@
 - Time to await fetching all that async good stuffs ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)
 - 001~003 are all empty. no skills testing.
+- async & await is good civ.
+- apparently 200 new js client-side frameworks got released while I was away.
