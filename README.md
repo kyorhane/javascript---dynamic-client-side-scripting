@@ -2,3 +2,4 @@
 - 001~003 are all empty. no skills testing.
 - async & await is good civ.
 - apparently 200 new js client-side frameworks got released while I was away.
+- wdym a new framework was just announced? 💀💀💀
