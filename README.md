@@ -1,4 +1,4 @@
-# [Javascript - Dynamic-client-side-scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/)
-## Following along MDN's Javascript guide to deepen fundamental JS knowledge. 
-### They say a skyscraper needs a strong foundation and that a chicken coop does not. But I think a coop still needs to be built properly with the right tools. So here I am learning JS to better understand JS frameworks.
-#### [Contact me](https://www.linkedin.com/in/kyohane/) for more 02:05AM philosophical muses. 🤔
+- I learned [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) by accident
+- I love APIs. [I fucking love using APIs](https://i.kym-cdn.com/photos/images/newsfeed/002/317/026/b58.jpg).
+- Rushed the drawing graphics part. I sure hope there's a library for both 2d and 3d animation.
+- Welp, managed to build additional media controls features on my own. Never knew a lot of work go into these guys. Well, until now that is.
