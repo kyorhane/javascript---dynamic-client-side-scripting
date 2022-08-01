@@ -2,3 +2,5 @@
 - I love APIs. [I fucking love using APIs](https://i.kym-cdn.com/photos/images/newsfeed/002/317/026/b58.jpg).
 - Rushed the drawing graphics part. I sure hope there's a library for both 2d and 3d animation.
 - Welp, managed to build additional media controls features on my own. Never knew a lot of work go into these guys. Well, until now that is.
+- Got the 2nd covid. Not a pleasant experience.
+- Storage APIs are as equally interesting as annoying.
